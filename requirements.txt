@@ -1,1 +1,3 @@
-echo "pandas\n scipy\n streamlit" > requirements.txt
+pandas
+scipy
+streamlit
